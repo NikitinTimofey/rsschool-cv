@@ -4,7 +4,7 @@
 
 __Phone:__ +375291243164
 
-__Email:__ tima.nikitin.2005@mail.ru
+__Email:__ tnikitin.2005@gmail.com
 ____
 ## About me
 I am willing to become a tech-savvy full-stack developer.
@@ -12,13 +12,13 @@ ____
 
 ## Skills
 
--C/C++ (basic)
--HTML, CSS, JS (basic)
--Git
+    -C/C++ (basic)
+    -HTML, CSS, JS (basic)
+    -Git
 ____
 
 ##Code example
-C program to check whether a number is prime or not
+    -C program to check whether a number is prime or not
 ```
 #include <stdio.h>
 #include <stdbool.h>
