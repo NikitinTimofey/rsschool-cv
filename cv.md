@@ -14,11 +14,13 @@ ____
 
     -C/C++ (basic)
     -HTML, CSS, JS (basic)
+    -Java (basic)
     -Git
 ____
 
 ##Code example
-    -C program to check whether a number is prime or not
+
+C program to check whether a number is prime or not
 ```
 #include <stdio.h>
 #include <stdbool.h>
