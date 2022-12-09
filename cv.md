@@ -11,6 +11,7 @@ ____
 ## About me
 
 I am willing to become a tech-savvy full-stack developer.
+
 ____
 
 ## Skills
@@ -58,6 +59,7 @@ ____
 ## Education
 
 Francisk Skorina Gomel State University, Programmable Mobile Systems
+
 ____
 
 ## English proficiency
