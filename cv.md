@@ -18,7 +18,7 @@ ____
     -Git
 ____
 
-##Code example
+## Code example
 
 C program to check whether a number is prime or not
 ```
